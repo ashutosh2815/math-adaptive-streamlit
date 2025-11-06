@@ -99,14 +99,9 @@ for architecture diagrams, design reasoning, and metric definitions.
 
 ---
 
-## 🎥 Optional Demo
-You can include a short demo (≤2 min) showing the app in action.  
-Link it here if uploaded to Google Drive or YouTube.
-
 ---
 
 ## 🧑‍💻 Author
 **Ashutosh Shukla**  
-B.Tech, IIIT Raichur  
 AI | ML | Deep Learning | Computer Vision  
 # math-adaptive-streamlit
