@@ -103,5 +103,4 @@ for architecture diagrams, design reasoning, and metric definitions.
 
 ## 🧑‍💻 Author
 **Ashutosh Shukla**  
-AI | ML | Deep Learning | Computer Vision  
-# math-adaptive-streamlit
+AI | ML | Deep Learning | Computer Vision
